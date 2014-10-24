@@ -1,0 +1,13 @@
+diff --git a/forge.js b/forge.js
+index e8b7b79..7238f9e 100644
+--- a/forge.js
++++ b/forge.js
+@@ -2,7 +2,7 @@
+   if(typeof define === 'function' && define.amd) {
+     define([], factory);
+   } else {
+-    root.forge = factory();
++    root.exports = factory();
+   }
+ })(this, function() {
+ /**

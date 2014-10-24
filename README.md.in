@@ -1,0 +1,12 @@
+kanso-forge
+===========
+
+forge wrapped for kan.so
+
+This is currently version @VERSION@.  The forge website is:
+
+@URL@
+
+and more documentation is available there.
+
+Forge provides a large set of encryption/security functionality in javascript.
