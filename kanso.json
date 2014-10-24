@@ -11,6 +11,7 @@
     "url": "http://github.com/digitalbazaar/forge",
     "modules": "forge.js",
     "modules_attachment": false,
+    "attachments" : ["forge"],
     "dependencies": {
         "modules": null,
         "attachments": null

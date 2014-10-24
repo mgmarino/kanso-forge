@@ -11,6 +11,7 @@
     "url": "@URL@",
     "modules": "@MODULENAME@.js",
     "modules_attachment": false,
+    "attachments" : ["@MODULENAME@"],
     "dependencies": {
         "modules": null,
         "attachments": null
